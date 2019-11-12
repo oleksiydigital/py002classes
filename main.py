@@ -4,3 +4,7 @@
 from myclass import My_class
 my_object = My_class('Don Pedro')
 my_object.tell()
+
+
+#something more, change 2
+#
