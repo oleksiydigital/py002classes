@@ -1,1 +1,3 @@
-select * from sometable where age > 21 order by name
+select * from sometable 
+where age > 21 
+order by name
